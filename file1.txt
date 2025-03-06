@@ -1,0 +1,5 @@
+Problem Statement 1: Initializing a Repository
+
+Create a new directory for a project and initialize it as a Git repository.
+
+Add a few files to the project, and make the initial commit.
